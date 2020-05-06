@@ -25,3 +25,16 @@ figcaption {
   font-size: small;
   text-align: center;
 }
+
+#featured-property p {
+  text-align: center;
+  width:800px;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
